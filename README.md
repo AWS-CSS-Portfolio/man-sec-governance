@@ -46,9 +46,7 @@ Governance in AWS combines multiple services to provide layered controls:
 
 ---
 
-## Diagram
-
-Flow: Organizations (multi-account) → Config (rules & compliance) → SCPs (preventive guardrails) → Systems Manager (patching & state enforcement) → CloudTrail (auditing & change logs).  
+## Diagram 
 
 ![Domain 6 Architecture](diagram.png)
 
